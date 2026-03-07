@@ -2,7 +2,7 @@
 <h3 align="center">A Full stack developer student</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif">
 
-- 🌱 I’m currently learning **node.js**
+- 🌱 I’m currently learning **vps**
 
 - 📫 How to reach me **juanmanuel_garcia98@hotmail.com**
 
