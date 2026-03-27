@@ -1,18 +1,38 @@
-<h1 align="center">Hi 👋😀, I'm Juan Manuel Garcia </h1>
-<h3 align="center">A Full stack developer</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,55:1c0407,100:e01f2d&height=145&section=header&text=Gino%20Giorgi&fontSize=60&fontColor=f0f0f0&fontAlignY=52&desc=Co-founder%20%40%20Pyrux%20%7C%20Full-Stack%20Developer&descSize=18&descAlignY=74&descFontColor=f0f0f0&animation=fadeIn"/>
 
-- 🌱 I’m currently learning **vps**
-
-- 📫 How to reach me **juanmanuel_garcia98@hotmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/juan-manuel-garcia-99952b270/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/juan-manuel-garcia-99952b270/" height="30" width="40" /></a>
-<a href="https://www.instagram.com/juanma_garcia98/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/juanma_garcia98/" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=e01f2d&center=true&vCenter=true&width=500&lines=Building+products+at+Pyrux;Next.js+%7C+React+%7C+TypeScript;Rosario%2C+Argentina+%F0%9F%87%A6%F0%9F%87%B7" alt="Typing SVG"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://github.com/puppeteer/puppeteer" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<br/>
 
+## 👾 About
 
+- 🏢 Co-founder & developer at **[Pyrux](https://www.pyrux.com.ar)** — web & app development studio based in Rosario
+- 🎓 Information Systems Engineering @ **UTN Rosario** (4th year)
+- 🏆 ICPC competitive programming training — Argentine Tournament 2025
+- 📍 Rosario, Argentina
+
+<br/>
+
+## 🛠️ Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,threejs,nodejs,python,django,supabase,git,linux,figma,vscode&theme=dark&perline=7"/>
+</p>
+
+<br/>
+
+## 📊 Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ginogiorgi&theme=dark&background=0d0d0d&border=e01f2d&stroke=e01f2d&ring=e01f2d&fire=a8111d&currStreakNum=f0f0f0&sideNums=f0f0f0&currStreakLabel=e01f2d&sideLabels=e01f2d&dates=666666&card_width=460" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img height="155" src="https://github-readme-stats.vercel.app/api?username=ginogiorgi&show_icons=true&include_all_commits=true&bg_color=0d0d0d&title_color=e01f2d&icon_color=e01f2d&text_color=f0f0f0&border_color=e01f2d"/>
+  &nbsp;
+  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ginogiorgi&layout=compact&bg_color=0d0d0d&title_color=e01f2d&text_color=f0f0f0&border_color=e01f2d&hide=css&exclude_repo=proyectoCoderFinal&langs_count=6"/>
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:e01f2d,45:1c0407,100:0d0d0d&height=110&section=footer"/>
