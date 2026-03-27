@@ -4,10 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=a855f7&center=true&vCenter=true&width=500&lines=Building+products+at+Pyrux;Next.js+%7C+React+%7C+TypeScript;Rosario%2C+Argentina+%F0%9F%87%A6%F0%9F%87%B7" alt="Typing SVG"/>
 </p>
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote"/>
-</p>
-
 <br/>
 
 ## 👾 About
@@ -30,9 +26,16 @@
 
 ## 📊 Stats
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=LittleBigPants&theme=dark&background=0d0d0d&border=a855f7&stroke=a855f7&ring=a855f7&fire=7c3aed&currStreakNum=f0f0f0&sideNums=f0f0f0&currStreakLabel=a855f7&sideLabels=a855f7&dates=666666&card_width=460" alt="GitHub Streak"/>
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LittleBigPants&theme=dracula"/>
+    </td>
+    <td align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LittleBigPants&theme=dracula"/>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=LittleBigPants&bg_color=0d0d0d&color=a855f7&line=a855f7&point=f0f0f0&area=true&area_color=1a0533&border_color=a855f7" alt="Contribution Graph"/>
