@@ -4,6 +4,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=a855f7&center=true&vCenter=true&width=500&lines=Building+products+at+Pyrux;Next.js+%7C+React+%7C+TypeScript;Rosario%2C+Argentina+%F0%9F%87%A6%F0%9F%87%B7" alt="Typing SVG"/>
 </p>
 
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote"/>
+</p>
+
 <br/>
 
 ## 👾 About
@@ -32,6 +36,10 @@
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=LittleBigPants&bg_color=0d0d0d&color=a855f7&line=a855f7&point=f0f0f0&area=true&area_color=1a0533&border_color=a855f7" alt="Contribution Graph"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/LittleBigPants/LittleBigPants/output/github-contribution-grid-snake-dark.svg" alt="Snake"/>
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:a855f7,45:1a0533,100:0d0d0d&height=110&section=footer"/>
