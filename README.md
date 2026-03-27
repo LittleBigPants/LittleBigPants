@@ -44,8 +44,5 @@
   </tr>
 </table>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/LittleBigPants/LittleBigPants/output/github-contribution-grid-snake-dark.svg"/>
-</p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:a855f7,45:1a0533,100:0d0d0d&height=110&section=footer"/>
